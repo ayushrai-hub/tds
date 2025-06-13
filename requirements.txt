@@ -1,0 +1,13 @@
+
+beautifulsoup4
+html2text
+tqdm
+markdown
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+aiohttp
+numpy
+pydantic
+setuptools
